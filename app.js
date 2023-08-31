@@ -54,7 +54,7 @@ class FormSubmit {
 }
 
     init() {
-        if (this.form) this.formButton.addEventListener("click", this.sendForm);
+        if (this.form) this.formButton.addEventListener('click', this.sendForm);
         return this;
     }
 }
