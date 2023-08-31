@@ -20,7 +20,7 @@
 }
 
 html {
-    font-size: 60.0%;
+    font-size: 42.5%;
     overflow-x: hidden;
 }
 
@@ -570,7 +570,3 @@ span {
 .error {
     color: tomato;
 }
-
-
-
-
